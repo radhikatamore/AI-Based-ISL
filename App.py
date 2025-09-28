@@ -52,4 +52,4 @@ elif mode == "About":
 
 # Footer
 st.markdown("---")
-st.caption("© 2025 AI-Based ISL Interpreter | Built with ❤️ using Streamlit")
+st.caption("© 2025 AI-Based ISL Interpreter")
